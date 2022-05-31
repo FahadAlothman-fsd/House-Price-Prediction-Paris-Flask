@@ -1,6 +1,6 @@
 
 *.xml
 *.iml
+*.ipynb
 .ipynb_checkpoints/Paris Housing Price Prediction using Linear Regression-checkpoint.ipynb
 .DS_Store
-.ipynb 
